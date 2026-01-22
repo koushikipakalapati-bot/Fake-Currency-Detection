@@ -20,8 +20,8 @@ Random Forest Classifier
 
 Results
 
-Logistic Regression achieved [Your LR Accuracy]% accuracy.
-Random Forest achieved [Your RF Accuracy]% accuracy.
+Logistic Regression achieved Accuracy: 0.9781818181818182 .
+Random Forest achieved Accuracy: 0.9927272727272727.
 Models successfully classify new banknotes and provide predictions for authenticity.
 
 Technologies Used
