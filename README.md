@@ -8,31 +8,31 @@ The UCI Banknote Authentication Dataset is used, containing features extracted f
 
 Feature Engineering
 
-Variance – texture variation of the banknote
-Skewness – asymmetry of pixel distribution
-Kurtosis – sharpness / peaks
-Entropy – randomness of pixel intensity
+-Variance – texture variation of the banknote
+-Skewness – asymmetry of pixel distribution
+-Kurtosis – sharpness / peaks
+-Entropy – randomness of pixel intensity
 
 Anomaly Detection / Classification Techniques
 
-Logistic Regression
-Random Forest Classifier
+-Logistic Regression
+-Random Forest Classifier
 
 Results
 
-Logistic Regression achieved Accuracy: 0.9781818181818182 .
-Random Forest achieved Accuracy: 0.9927272727272727.
-Models successfully classify new banknotes and provide predictions for authenticity.
+-Logistic Regression achieved Accuracy: 0.9781818181818182 .
+-Random Forest achieved Accuracy: 0.9927272727272727.
+-Models successfully classify new banknotes and provide predictions for authenticity.
 
 Technologies Used
 
-Python
-Pandas, Numpy
-Scikit-learn
-Matplotlib, Seaborn
+-Python
+-Pandas, Numpy
+-Scikit-learn
+-Matplotlib, Seaborn
 
 Future Work
 
-Extend to image-based deep learning models (CNNs) for direct image classification
-Deploy as a web app or mobile application for real-time currency authentication
-Experiment with other ML algorithms for higher accuracy
+-Extend to image-based deep learning models (CNNs) for direct image classification
+-Deploy as a web app or mobile application for real-time currency authentication
+-Experiment with other ML algorithms for higher accuracy
